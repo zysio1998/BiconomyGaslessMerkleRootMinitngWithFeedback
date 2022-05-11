@@ -1,0 +1,74 @@
+{
+  "name": "react_three_fiber_showcase",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.2",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@biconomy/mexa": "^2.0.31",
+    "@react-three/cannon": "^4.7.0",
+    "@react-three/drei": "^8.9.0",
+    "@react-three/fiber": "^7.0.26",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "babel-loader": "^8.2.3",
+    "buffer": "^6.0.3",
+    "axios": "^0.26.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^10.2.4",
+    "css-loader": "^6.5.1",
+    "drei": "1.5.7",
+    "ethers": "^5.6.1",
+    "file-loader": "^6.2.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "ip": "^1.1.5",
+    "keccak256": "^1.0.6",
+    "lil-gui": "^0.16.1",
+    "merkletreejs": "^0.2.31",
+    "mini-css-extract-plugin": "^2.5.3",
+    "portfinder-sync": "0.0.2",
+    "raw-loader": "^4.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "react-three-fiber": "5.3.1",
+    "spectorjs": "^0.9.27",
+    "stream": "^0.0.2",
+    "style-loader": "^3.3.1",
+    "sweetalert2": "^11.4.8",
+    "three": "^0.137.5",
+    "use-cannon": "0.5.3",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.3",
+    "webpack-merge": "^5.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
