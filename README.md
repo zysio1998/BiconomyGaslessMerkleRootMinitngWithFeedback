@@ -26,6 +26,9 @@ To change this to suit a specific project
 10. should work
 
 
+to get a new merkle root you need to run node merkle_tree.js on the backend server
+https://glitch.com/edit/#!/scarce-guttural-museum
+
 used to translate hex to string
 https://string-functions.com/hex-string.aspx
 
