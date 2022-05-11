@@ -25,7 +25,9 @@ To change this to suit a specific project
 9. Add the merkle root to the contract
 10. should work
 
-https://biconomy-gasless-testing.vercel.app/
+
+used to translate hex to string
+https://string-functions.com/hex-string.aspx
 
 
 
